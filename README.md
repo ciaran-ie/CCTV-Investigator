@@ -73,4 +73,4 @@ Created and maintained by [Ciaran](mailto:ciaranott@gmail.com)
 
 ---
 
-> 🔐 *Designed with operational needs of frontline Gardaí and CCTV examiners in mind.*
+> 🔐 *Designed with operational needs of frontline  CCTV examiners in mind.*
